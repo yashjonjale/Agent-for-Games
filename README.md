@@ -2,7 +2,7 @@
 
 # Intelligent Othello Agent
 
-Welcome to the Intelligent Othello Agent project, a self-created masterpiece from 2022. In this project, I have developed a classic Othello (also known as Reversi) game implemented in C++, complete with a sophisticated artificial intelligence (AI) opponent.
+Welcome to the Intelligent Othello Agent project. In this project, I have developed a classic Othello (also known as Reversi) game implemented in C++, complete with a sophisticated artificial intelligence (AI) opponent.
 
 - **Minimax Algorithm**: The AI opponent is powered by the Minimax algorithm, a fundamental technique in AI for decision-making in adversarial environments.
 
