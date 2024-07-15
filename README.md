@@ -1,4 +1,4 @@
-# Classic-Othello
+# Agent for Games
 
 # Intelligent Othello Agent
 
@@ -7,6 +7,9 @@ Welcome to the Intelligent Othello Agent project. In this project, I have develo
 - **Minimax Algorithm**: The AI opponent is powered by the Minimax algorithm, a fundamental technique in AI for decision-making in adversarial environments.
 
 - **Command-Line Interface**: Play the game using a simple and intuitive command-line interface, making it accessible to all users.
+
+#Tic/Tac/Toe
+Only works with simplecpp package
 
 ## How to Play
 
