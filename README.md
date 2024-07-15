@@ -8,7 +8,7 @@ Welcome to the Intelligent Othello Agent project. In this project, I have develo
 
 - **Command-Line Interface**: Play the game using a simple and intuitive command-line interface, making it accessible to all users.
 
-#Tic/Tac/Toe
+# Tic/Tac/Toe
 Only works with simplecpp package
 
 ## How to Play
